@@ -12,7 +12,11 @@ To address the Traffic Source Analysis challenge, I connected the dataset direct
 - **Table Relationships:** I established a relationship between the User Sessions Table (geography, device, and timestamps) and the Engagement Data Table (traffic sources and conversion outcomes) using a common identifier. This allowed for seamless cross-filtering and granular analysis across the two datasets.
 - **KPI Development:** I developed custom Key Performance Indicators (KPIs) within Tableau, including Year-over-Year (YoY) growth rates for new users, conversion efficiency by hour, and average session duration by source.
 - **Visual Exploration:** Using the established relationships, I built interactive dashboards to visualize the correlation between traffic timing (temporal patterns) and actual conversion success.
-![](https://github.com/monicabright/AfriTech-Electronics/blob/main/Customer%20Analysis%20Afritech.png)
+
+![](https://github.com/monicabright/BrightCart-Web-Traffic-Optimization/blob/main/Screenshot%202025-09-30%20210641.png)
+![](https://github.com/monicabright/BrightCart-Web-Traffic-Optimization/blob/main/Screenshot%202025-09-30%20210802.png)
+
+An interactive Tableau dashboard used to report and explore the web traffic trends can be found here [here](https://public.tableau.com/app/profile/monica.bright/viz/WebTrafficAnalysis_17600813488330/Dashboard1)
 
 ## Executive Summary
 ### Overview of Findings

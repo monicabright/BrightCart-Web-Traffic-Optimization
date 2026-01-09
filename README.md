@@ -38,6 +38,8 @@ The analysis reveals a brand with strong organic foundations but a burgeoning so
 - **The Tablet Outlier:** Interestingly, while tablet users are fewer in number, they exhibit the highest average session duration, indicating a highly engaged but underserved segment.
 - **Demographics:** Returning and new users are predominantly males from the USA and Canada, with a general decline in the total user base noted in 2024, despite the 52.9% increase in new users.
 
+An interactive Tableau dashboard used to report and explore the web traffic trends can be found here [here](https://public.tableau.com/app/profile/monica.bright/viz/WebTrafficAnalysis_17600813488330/Dashboard1)
+
 ### Strategic Recommendations
 - **Capitalize on Social Growth:** Given the 77% YoY increase in new social users, reallocate budget from underperforming "Paid Ads" to Social Media content and community management.
 - **Synchronized Late-Night Campaigns:** Align email blasts and social pushes with the 11 PM peak to ride the Sunday/Monday traffic wave into the high-conversion early morning hours.
